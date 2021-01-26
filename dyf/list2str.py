@@ -4,7 +4,7 @@ def list2str(alist):
         if i == len(alist) - 1:
             result = result + " and " + v
         else:
-            result = result == "" and v or result + ", " + v
+            result = result == "" and v or result+','+v
     return result
 
 
