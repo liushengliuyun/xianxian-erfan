@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e76b8ca-6cfd-4fb4-bc28-45c770699693" name="Default Changelist" comment="list2str" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nNrF4L8CcZ1JXlHB2GHy3y0kyT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/计算机、翻译和经管类书籍/python/python_work/新文件/dict.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\pythonrepository\xianxian-erfan\erfan " />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.grid">
+    <configuration name="Collatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collatz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="builtins" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/-771540385" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/-771540385/builtins.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/personal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/personal/for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xianxian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xianxian/grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list2str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dyf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dyf/list2str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xianxian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xianxian/spam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.grid" />
+        <item itemvalue="Python.list2str" />
+        <item itemvalue="Python.spam" />
+        <item itemvalue="Python.for" />
+        <item itemvalue="Python.Collatz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e76b8ca-6cfd-4fb4-bc28-45c770699693" name="Default Changelist" comment="" />
+      <created>1611241283161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611241283161</updated>
+      <workItem from="1611241288129" duration="1937000" />
+      <workItem from="1611244598042" duration="1148000" />
+      <workItem from="1611286059767" duration="1879000" />
+      <workItem from="1611316428306" duration="12531000" />
+      <workItem from="1611624210479" duration="4849000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1611241368721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611241368721</updated>
+    </task>
+    <task id="LOCAL-00002" summary="list2str">
+      <created>1611629046087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611629046088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="list2str" />
+    <option name="LAST_COMMIT_MESSAGE" value="list2str" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="0" key="#builtins" timestamp="1611245732154">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="416" y="0" key="#builtins/76.0.1290.768@76.0.1290.768" timestamp="1611245732154" />
+    <state x="470" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611324362012">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="470" y="182" key="#com.intellij.fileTypes.FileTypeChooser/76.0.1290.768@76.0.1290.768" timestamp="1611324362012" />
+    <state x="811" y="93" key="#xdebugger.evaluate" timestamp="1611582869080">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="811" y="93" key="#xdebugger.evaluate/76.0.1290.768@76.0.1290.768" timestamp="1611582869080" />
+    <state x="446" y="76" key="FileChooserDialogImpl" timestamp="1611242908158">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="446" y="76" key="FileChooserDialogImpl/76.0.1290.768@76.0.1290.768" timestamp="1611242908158" />
+    <state width="1244" height="230" key="GridCell.Tab.0.bottom" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.0.bottom/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.0.center" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.0.center/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.0.left" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.0.left/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.0.right" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.0.right/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.1.bottom" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.1.bottom/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.1.center" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.1.center/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.1.left" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.1.left/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="230" key="GridCell.Tab.1.right" timestamp="1611628841981">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="1244" height="230" key="GridCell.Tab.1.right/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state x="221" y="15" key="SettingsEditor" timestamp="1611585600392">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="221" y="15" key="SettingsEditor/76.0.1290.768@76.0.1290.768" timestamp="1611585600392" />
+    <state x="442" y="114" width="582" height="524" key="StructurePopup" timestamp="1611245626039">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="442" y="114" width="582" height="524" key="StructurePopup/76.0.1290.768@76.0.1290.768" timestamp="1611245626039" />
+    <state width="653" height="392" key="XDebugger.FullValuePopup" timestamp="1611624898909">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state width="653" height="392" key="XDebugger.FullValuePopup/76.0.1290.768@76.0.1290.768" timestamp="1611624898909" />
+    <state x="562" y="0" width="683" height="768" key="find.popup" timestamp="1611324399844">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="562" y="0" width="683" height="768" key="find.popup/76.0.1290.768@76.0.1290.768" timestamp="1611324399844" />
+    <state x="384" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1611244846590">
+      <screen x="76" y="0" width="1290" height="768" />
+    </state>
+    <state x="384" y="89" width="672" height="678" key="search.everywhere.popup/76.0.1290.768@76.0.1290.768" timestamp="1611244846590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dyf/list2str.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xianxian/grid.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xianxian/grid.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/xianxian_erfan$test.coverage" NAME="test Coverage Results" MODIFIED="1611245520605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$spam.coverage" NAME="spam Coverage Results" MODIFIED="1611624259898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$grid.coverage" NAME="grid Coverage Results" MODIFIED="1611628841954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$dict.coverage" NAME="dict Coverage Results" MODIFIED="1611243123900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/计算机、翻译和经管类书籍/python/python_work/新文件" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$builtins.coverage" NAME="builtins Coverage Results" MODIFIED="1611286098676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/-771540385" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$Collatz.coverage" NAME="Collatz Coverage Results" MODIFIED="1611319918757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$stata.coverage" NAME="stata Coverage Results" MODIFIED="1611289974097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$list2str.coverage" NAME="list2str Coverage Results" MODIFIED="1611628181520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dyf" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$collatz.coverage" NAME="collatz Coverage Results" MODIFIED="1611319852850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$for.coverage" NAME="for Coverage Results" MODIFIED="1611326135251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/personal" />
+  </component>
+</project>
