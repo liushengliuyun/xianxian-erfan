@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e76b8ca-6cfd-4fb4-bc28-45c770699693" name="Default Changelist" comment="list2str" />
+    <list default="true" id="2e76b8ca-6cfd-4fb4-bc28-45c770699693" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/xianxian/displayInventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,29 +61,7 @@
       <recent name="E:\code\pythonrepository\xianxian-erfan\erfan " />
     </key>
   </component>
-  <component name="RunManager" selected="Python.grid">
-    <configuration name="Collatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="xianxian-erfan" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collatz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.displayInventory">
     <configuration name="builtins" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="xianxian-erfan" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dicPractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xianxian-erfan" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,12 +92,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/personal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dyf" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/personal/for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dyf/dicPractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="displayInventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xianxian-erfan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xianxian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xianxian/displayInventory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.displayInventory" />
+        <item itemvalue="Python.dicPractice" />
         <item itemvalue="Python.grid" />
         <item itemvalue="Python.list2str" />
         <item itemvalue="Python.spam" />
-        <item itemvalue="Python.for" />
-        <item itemvalue="Python.Collatz" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +218,7 @@
       <workItem from="1611244598042" duration="1148000" />
       <workItem from="1611286059767" duration="1879000" />
       <workItem from="1611316428306" duration="12531000" />
-      <workItem from="1611624210479" duration="4849000" />
+      <workItem from="1611624210479" duration="7699000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1611241368721</created>
@@ -231,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611629046088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1611629199894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611629199894</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="list2str" />
-    <option name="LAST_COMMIT_MESSAGE" value="list2str" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="0" key="#builtins" timestamp="1611245732154">
@@ -271,22 +282,22 @@
       <screen x="76" y="0" width="1290" height="768" />
     </state>
     <state x="446" y="76" key="FileChooserDialogImpl/76.0.1290.768@76.0.1290.768" timestamp="1611242908158" />
-    <state width="1244" height="230" key="GridCell.Tab.0.bottom" timestamp="1611628841981">
+    <state width="1244" height="221" key="GridCell.Tab.0.bottom" timestamp="1611631994778">
       <screen x="76" y="0" width="1290" height="768" />
     </state>
-    <state width="1244" height="230" key="GridCell.Tab.0.bottom/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
-    <state width="1244" height="230" key="GridCell.Tab.0.center" timestamp="1611628841981">
+    <state width="1244" height="221" key="GridCell.Tab.0.bottom/76.0.1290.768@76.0.1290.768" timestamp="1611631994778" />
+    <state width="1244" height="221" key="GridCell.Tab.0.center" timestamp="1611631994777">
       <screen x="76" y="0" width="1290" height="768" />
     </state>
-    <state width="1244" height="230" key="GridCell.Tab.0.center/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
-    <state width="1244" height="230" key="GridCell.Tab.0.left" timestamp="1611628841981">
+    <state width="1244" height="221" key="GridCell.Tab.0.center/76.0.1290.768@76.0.1290.768" timestamp="1611631994777" />
+    <state width="1244" height="221" key="GridCell.Tab.0.left" timestamp="1611631994777">
       <screen x="76" y="0" width="1290" height="768" />
     </state>
-    <state width="1244" height="230" key="GridCell.Tab.0.left/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
-    <state width="1244" height="230" key="GridCell.Tab.0.right" timestamp="1611628841981">
+    <state width="1244" height="221" key="GridCell.Tab.0.left/76.0.1290.768@76.0.1290.768" timestamp="1611631994777" />
+    <state width="1244" height="221" key="GridCell.Tab.0.right" timestamp="1611631994777">
       <screen x="76" y="0" width="1290" height="768" />
     </state>
-    <state width="1244" height="230" key="GridCell.Tab.0.right/76.0.1290.768@76.0.1290.768" timestamp="1611628841981" />
+    <state width="1244" height="221" key="GridCell.Tab.0.right/76.0.1290.768@76.0.1290.768" timestamp="1611631994777" />
     <state width="1244" height="230" key="GridCell.Tab.1.bottom" timestamp="1611628841981">
       <screen x="76" y="0" width="1290" height="768" />
     </state>
@@ -355,13 +366,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/xianxian_erfan$test.coverage" NAME="test Coverage Results" MODIFIED="1611245520605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$spam.coverage" NAME="spam Coverage Results" MODIFIED="1611624259898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
-    <SUITE FILE_PATH="coverage/xianxian_erfan$grid.coverage" NAME="grid Coverage Results" MODIFIED="1611628841954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$grid.coverage" NAME="grid Coverage Results" MODIFIED="1611629898211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$dict.coverage" NAME="dict Coverage Results" MODIFIED="1611243123900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/计算机、翻译和经管类书籍/python/python_work/新文件" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$builtins.coverage" NAME="builtins Coverage Results" MODIFIED="1611286098676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/-771540385" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$Collatz.coverage" NAME="Collatz Coverage Results" MODIFIED="1611319918757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$stata.coverage" NAME="stata Coverage Results" MODIFIED="1611289974097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$list2str.coverage" NAME="list2str Coverage Results" MODIFIED="1611628181520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dyf" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$displayInventory.coverage" NAME="displayInventory Coverage Results" MODIFIED="1611631994770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$collatz.coverage" NAME="collatz Coverage Results" MODIFIED="1611319852850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xianxian" />
+    <SUITE FILE_PATH="coverage/xianxian_erfan$dicPractice.coverage" NAME="dicPractice Coverage Results" MODIFIED="1611631822784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dyf" />
     <SUITE FILE_PATH="coverage/xianxian_erfan$for.coverage" NAME="for Coverage Results" MODIFIED="1611326135251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/personal" />
   </component>
 </project>
