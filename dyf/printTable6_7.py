@@ -8,7 +8,7 @@ def printTable(t):
     x, y = len(t[0]), len(t)
     for j in range(x):
         for i in range(y):
-            print((t[i][j] + " ").rjust(width[i] + 1), end="")
+            print((t[i][j]).rjust(width[i]), end=" ")
         print('')
 
 
