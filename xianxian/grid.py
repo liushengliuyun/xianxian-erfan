@@ -11,12 +11,16 @@ grid = [
 ]
 
 
-b=0
-while b<6:
-    a=0
-    while a<9:
-        print(grid[a][b],end="")
-        if a== 8:
-            print('')
-        a=a+1
-    b=b+1
+def list2str(aList):
+    b = 0
+    while b < len(aList[0]):
+        a = 0
+        while a < len(aList):
+            print(aList[a][b], end="")
+            if a == len(aList) - 1:
+                print('')
+            a = a + 1
+        b = b + 1
+
+
+list2str(grid)
