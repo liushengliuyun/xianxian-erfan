@@ -11,5 +11,21 @@ for fm in family_members[:-1]:
 a = a + ' and ' + family_members[-1]
 
 print(a)
+"""定义函数"""
+def list_to_str(a_list):
+    output=''
+    for yuansu in a_list[:-1]:
+        if output=='':
+            output=yuansu
+        else:
+            output = output + ',' + yuansu
+    output=output+" and "+a_list[-1]
+    print(output)
+
+list_to_str(family_members)
+
+
+
+
 
 
